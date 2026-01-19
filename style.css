@@ -5,7 +5,8 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #002338;
+    background-image: url(background.webp);
+    background-attachment: fixed;
     color: #fff;
 }
 .container{
